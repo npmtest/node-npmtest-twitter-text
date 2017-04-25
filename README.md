@@ -1,6 +1,6 @@
 # npmtest-twitter-text
 
-#### test coverage for  [twitter-text (v1.14.3)](https://github.com/twitter/twitter-text-js)  [![npm package](https://img.shields.io/npm/v/npmtest-twitter-text.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-twitter-text) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-twitter-text.svg)](https://travis-ci.org/npmtest/node-npmtest-twitter-text)
+#### basic test coverage for  [twitter-text (v1.14.3)](https://github.com/twitter/twitter-text-js)  [![npm package](https://img.shields.io/npm/v/npmtest-twitter-text.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-twitter-text) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-twitter-text.svg)](https://travis-ci.org/npmtest/node-npmtest-twitter-text)
 
 #### official twitter text linkification
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-twitter-text/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-twitter-text/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-twitter-text/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-twitter-text/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-twitter-text/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-twitter-text/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-twitter-text/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-twitter-text/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-twitter-text/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-twitter-text/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-twitter-text/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-twitter-text/build/coverage.html/index.html)
 
@@ -89,7 +89,8 @@
         "url": "git+https://github.com/twitter/twitter-text-js.git"
     },
     "scripts": {},
-    "version": "1.14.3"
+    "version": "1.14.3",
+    "bin": {}
 }
 ```
 
